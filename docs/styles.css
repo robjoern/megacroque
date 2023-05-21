@@ -14,7 +14,7 @@ main, footer {
 }
 
 footer {
-    font-family: Arial, sans-serif;
+    font-family: Arial, sans-serif;	
 }
 
 h1 {
@@ -213,7 +213,7 @@ h2.dish-price  {
     margin-bottom: 0px;
 }
 
-.additives-div  {
+.additives-div, #legal-note-div {
 	margin-left: 20px;
     margin-right: 20px;
     padding-left: 20px;
